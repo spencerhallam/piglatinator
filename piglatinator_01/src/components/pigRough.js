@@ -1,3 +1,5 @@
+//this is is the orignal proceedural code from es6console.io
+
 const initialMessage = console.log("Enter a message to translate.");
 const testMessage = "Ge|ta yo^ur d.og o#ff my la$wn!";
 

@@ -12,3 +12,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.App{
+  text-align: center;
+}
+.App h2{
+  color: hsl(190, 90%, 20%);
+}
+.pig-result{
+  display: block;
+  padding: 2.5rem 0rem;
+  font-size: 3rem;
+  color: hsl(120, 90%, 30%);
+}
+
+.trans-title{
+  display: block;
+  padding-top: 2.5rem;
+  font-style: bold;
+  color: gray;
+}
